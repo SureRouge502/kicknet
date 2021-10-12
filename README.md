@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------->
 
-Linux Chat .sh
+Kicknet .sh
 ---------------
 
 About: This program is developed by SureRouge502 automating the process of a DOS attack (Denial Of Service attack)
