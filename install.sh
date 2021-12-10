@@ -7,7 +7,7 @@ echo ---------------------------------------------------------------------------
 echo
 sleep 2
 sudo apt-get update &&
-sudo apt install aircrack-ng
+sudo apt install aircrack-ng -y
 echo
 echo
 echo -----------------------------------------------------------------------------------------------------------
